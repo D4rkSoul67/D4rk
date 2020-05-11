@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>D4rkForum</title>
+<h3>Bine ati venit</h3>
+<p>Acesta este site-ul meu.Stiu ca e facut nasol dar na.</p>
+<a href="https://www.youtube.com/channel/UC9QISLWgXGUp95bj9kbpXTA?view_as=subscriber">Link</a>
+</body>
+</html>
